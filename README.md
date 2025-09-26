@@ -17,33 +17,6 @@ Contact Page → iletisim.html
 
 Login Page → login.html
 
-  Project Structure
-WEB/
-│── index.html
-│── cv.html
-│── iletisim.html
-│── ilgi.html
-│── login.html
-│── sehrim.html
-│── style.css
-│── main.js
-│── main2.js
-│
-├── cv/
-│   └── cv.html
-├── ilgi/
-│   └── ilgi.html
-├── login/
-│   └── login.html
-├── index/
-│   └── index.html
-├── sehrim/
-│   └── sehrim.html
-└── img/
-    ├── Aleppo.jpg
-    ├── cami_1.gif
-    ├── cami_2.jpg
-    ├── ...
 
   Installation & Setup
 
