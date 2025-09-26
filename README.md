@@ -1,67 +1,28 @@
-Personal Website Project
+Project Description
 
-This is a personal web project created using HTML, CSS, and JavaScript.
-It includes different sections such as a CV, interests, city introduction, and contact page.
+This is a personal website project developed using HTML, CSS, and JavaScript.
+The website includes multiple pages such as:
 
-  Pages
+Home Page (index.html) – Main entry point
 
-Home Page → index.html
+CV Page – Showcasing personal background and resume
 
-CV Page → cv.html
+Interests Page – Presenting hobbies and personal interests
 
-Interests Page → ilgi.html
+My City Page – Introducing the city with images and details
 
-My City Page → sehrim.html
+Contact Page – For communication
 
-Contact Page → iletisim.html
+Login Page – User login form
 
-Login Page → login.html
+The project demonstrates fundamental front-end web development skills, focusing on:
 
+Clean and structured HTML pages
 
-  Installation & Setup
+Centralized styling with CSS
 
-Clone the repository:
+Interactivity through JavaScript
 
-git clone https://github.com/username/repository.git
+Organized project folders (cv, ilgi, login, sehrim, img)
 
-
-Navigate to the project folder:
-
-cd WEB
-
-
-Open index.html in your browser to view the website.
-
-  Built With
-
-HTML5 – Structure of the pages
-
-CSS3 – Styles and layouts (style.css)
-
-JavaScript – Interactivity (main.js, main2.js)
-
-  Usage
-
-Open index.html to access the homepage.
-
-Navigate through CV, Interests, City, and Contact sections.
-
-Login functionality is available via login.html.
-
-  Contributing
-
-Feel free to contribute!
-
-Fork the project
-
-Create a branch (git checkout -b feature/featureName)
-
-Commit your changes (git commit -m 'Add new feature')
-
-Push to branch (git push origin feature/featureName)
-
-Open a Pull Request
-
-  License
-
-This project is licensed under the MIT License.
+It is a beginner-friendly project showcasing both personal information and web development practices.
